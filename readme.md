@@ -1,3 +1,8 @@
-[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nick026&count_private=true&show_icons=true&theme=onedark)](https://github.com/nick026)
+<a href="https://github-readme-stats.vercel.app/api?username=Staijn1&show_icons=true&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nick026&show_icons=true&theme=onedark" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Staijn1&langs_count=10&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nick026&langs_count=10&theme=onedark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nick026&theme=onedark&langs_count=10&layout=compact)](https://github.com/nick026)
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
