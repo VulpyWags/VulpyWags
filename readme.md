@@ -3,8 +3,5 @@ A 27 year old retired software/web developer. Now a bus driver in public transpo
 NOT available for work, i have no interest in working on a project.
 Maintains MrGreen's Multi Theft Auto servers
 
-<a href="https://github-readme-stats.vercel.app/api?username=VulpyWags&show_icons=true&theme=onedark&count_private=true">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=VulpyWags&show_icons=true&theme=onedark&count_private=true" />
-</a>
+![c2e2b8d5-b36b-4613-a5b5-be6f2d3d8f83](https://github.com/user-attachments/assets/0f75df52-af61-4f73-bb76-fcad716488b1)
 
-[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
